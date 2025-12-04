@@ -1,0 +1,19 @@
+title: "Coin Shows Near Me – United States Coin Show Directory"
+description: "A nationwide directory of recurring coin shows in the United States, organized by state."
+url: "https://nezumitora.github.io"
+baseurl: "/coin-shows-near-me"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+
+search_enabled: true
+nav_enabled: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/nezumitora/coin-shows-near-me"
+aux_links_new_tab: true
