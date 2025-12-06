@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2025-CA-ana-001",
+    "show_name": "ANA World's Fair of Money",
+    "start_date": "2025-08-05",
+    "end_date": "2025-08-09",
+    "venue_name": "Los Angeles Convention Center",
+    "address": "1201 S Figueroa St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postal_code": "90015",
+    "website_url": "https://money.org"
+  },
+  {
+    "id": "2025-TX-dallas-002",
+    "show_name": "Dallas Coin & Bullion Expo",
+    "start_date": "2025-03-14",
+    "end_date": "2025-03-16",
+    "venue_name": "Dallas Convention Center",
+    "address": "650 S Griffin St",
+    "city": "Dallas",
+    "state": "TX",
+    "postal_code": "75202",
+    "website_url": "https://example.com/dallas-expo"
+  },
+  {
+    "id": "2025-FL-orlando-003",
+    "show_name": "Orlando Winter Coin Show",
+    "start_date": "2025-12-05",
+    "end_date": "2025-12-07",
+    "venue_name": "Orange County Expo Hall",
+    "address": "1234 Sunshine Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": "32801",
+    "website_url": ""
+  }
+]
